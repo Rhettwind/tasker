@@ -1,0 +1,8 @@
+
+.icon-edit:before { content: '\e800'; } /* '' */
+.icon-trash-empty:before { content: '\e801'; } /* '' */
+.icon-bell:before { content: '\e802'; } /* '' */
+.icon-bell-off-empty:before { content: '\e803'; } /* '' */
+.icon-ok:before { content: '\e804'; } /* '' */
+.icon-toggle-off:before { content: '\e805'; } /* '' */
+.icon-toggle-on:before { content: '\e806'; } /* '' */

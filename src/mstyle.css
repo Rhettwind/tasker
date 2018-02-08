@@ -1,0 +1,17 @@
+body { margin: 0 }
+.icon { width: 80px; height: 80px}
+.dicon {height: 79px}
+#task {top: -55px; position: relative; font-size: 15px; padding: 10px;}
+.time > div {height: 40px; border-top: 1px solid #E8E8E8; cursor: default}
+.time img {height: 16px; padding: 12px;}
+.time span {position: relative; top: -15px;}
+.time > div:hover {background: #F3F3F3}
+.time input { width: 33px;     height: 22px; padding: 0 4px;}
+#custom {
+    border: 1px solid #d0d0d0;
+    border-radius: 3px;
+    padding: 7px 22px;
+    background: #eaeaea;
+    margin-left: 12px;
+    cursor: pointer;
+}
