@@ -2,7 +2,7 @@
   "name": "Easy light taskmanager reminder напоминалка",
   "description" : "Easy notify for call, deal and more",
   "short_name" : "Reminder напоминалка",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "manifest_version": 2,
   "icons": {
     "128": "icon.png",

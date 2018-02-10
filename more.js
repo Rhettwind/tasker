@@ -40,8 +40,5 @@ window.onload = function() {
         });
     });
 
-    window.resizeBy(0, document.body.offsetHeight - window.innerHeight + 15);
+    window.resizeBy(0, document.body.offsetHeight - window.innerHeight + 25);
 };
-
-
-
